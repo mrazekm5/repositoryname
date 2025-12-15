@@ -1,3 +1,4 @@
+#ahsgahfgopaihgia hgoipahfgiauhg komentar :)
 def pozdrav(jmeno):
     return f"Ahoj, {jmeno}! Toto je verze 1.1. upraveno"
 
